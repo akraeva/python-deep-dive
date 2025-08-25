@@ -1,0 +1,46 @@
+__pycache__/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# MyPy / Pyre / Pytype type checker files
+.mypy_cache/
+.pyre/
+.pytype/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# templates 
+*x.py
